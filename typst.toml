@@ -1,0 +1,24 @@
+[package]
+name = "isc-heig-vd-student-templates"
+version = "0.3.0"
+compiler = "0.13.0"
+authors = ["Romain Antunes <https://github.com/RomainAntunes>"]
+repository = "https://github.com/RomainAntunes/isc-heig-vd-student-templates"
+license = "MIT"
+description = "A report and project template tailored to the ISC program at the HEIG-VD School of Engineering, Yverdon, Switzerland."
+entrypoint = "lib/template-report.typ"
+categories = ["report", "paper"]
+disciplines = ["engineering", "computer-science", "education"]
+keywords = [
+  "Report",
+  "Project",
+  "University",
+  "HEIG-VD",
+  "School of engineering",
+  "Systems Engineering",
+]
+
+[template]
+path = "template"
+entrypoint = "report.typ"
+thumbnail = "thumbnail.png"
