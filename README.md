@@ -212,10 +212,6 @@ isc-heig-vd-student-templates/
 └── README.md
 ```
 
-## Installation
-
-This package is available on [Typst Universe](https://typst.app/universe/package/isc-heig-vd-student-templates).
-
 ## License
 
 MIT
