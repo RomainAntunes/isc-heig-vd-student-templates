@@ -13,6 +13,10 @@ A [Typst](https://typst.app/) template package tailored to the **ISC** (Informat
 - **Multi-author** support with email links
 - **Configurable** document metadata (school, course, professor, etc.)
 
+## Cover page
+
+![cover page](./assets/cover_page.png)
+
 ## Usage
 
 ```typst
